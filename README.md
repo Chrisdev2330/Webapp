@@ -22,8 +22,8 @@ Este es el backend la aplicación construida con Express.js y MongoDB. Proporcio
 
 3. Configura la bases de datos local de mongodb:
 
-Ve al archivo src/config/db.js y cambia el nombre de la base de datos creada en MongoDB Compass
-mongodb://127.0.0.1:27017/<'nombre de la base de datos'>'
+  Ve al archivo src/config/db.js y cambia el nombre de la base de datos creada en MongoDB Compass
+  mongodb://127.0.0.1:27017/<'nombre de la base de datos'>
 
 ### Ejecución
 
