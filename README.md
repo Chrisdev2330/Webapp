@@ -16,14 +16,9 @@ Este es el backend la aplicación construida con Express.js y MongoDB. Proporcio
 
 ### Instalación
 
-1.  Clona este repositorio:
+1.  Clona este repositorio: git clone https://github.com/Chrisdev2330/Webapp.git
 
-git clone https://github.com/Chrisdev2330/Webapp.git
-
-2.Instala las dependencias:
-
-cd backend
-npm install
+2.Instala las dependencias: cd backend npm install
 
 3. Configura la bases de datos local de mongodb:
 
@@ -75,7 +70,6 @@ El frontend sigue una arquitectura basada en componentes, donde cada componente 
 
 ### Instalación
 
-1.  Clona el repositorio: git clone https://github.com/Chrisdev2330/Webapp.git
 2.  Accede al directorio del proyecto: cd webapp
 3.  Instala las dependencias: npm install
 
